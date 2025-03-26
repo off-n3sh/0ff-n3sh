@@ -2,7 +2,7 @@
 # About
 - Student majoring in Security Forensics
 - C, Python developer
-- Amateur backend engineer and front-end developer
+- Backend engineer and Systems Adminstrator
 - Lang: English,Spanish (a little bit)
 ## Contact
 - Email: nehemiaangana@icloud.com
